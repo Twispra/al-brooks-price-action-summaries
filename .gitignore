@@ -1,0 +1,27 @@
+# Source media and local processing artifacts
+/videos/
+/.codex-video-work/
+
+# Rebuildable AI-ingestion exports
+/exports/
+
+# Private provenance and QA ledgers
+/audits/
+
+# Local agent and workflow instructions
+/AGENTS.md
+/WORKFLOW.md
+
+# Media and subtitle files should never be committed
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.srt
+*.vtt
+*.wav
+*.mp3
+
+# Operating-system files
+Thumbs.db
+.DS_Store
