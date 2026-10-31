@@ -60,7 +60,9 @@
 
 ### 09:59–14:42｜方向筛选、当前 Swing 与结构化 Stop/Target [Brooks/课件]
 
-[Brooks/课件] AIL 环境中多头更容易赚钱，因此优先寻找 buy setups；AIS 环境中优先寻找 sell setups。课程列举了 pullback、pullback breakout、逆色 K 收盘、极值外订单等多种同向入场理由。正确抽象是“先筛方向，再评估具体 setup”，而不是 `buy/sell for any reason` 可以脱离价格、规模和风险任意执行。
+[Brooks/课件] AIL 环境中多头更容易赚钱，因此优先寻找 buy setups；AIS 环境中优先寻找 sell setups。课程列举了 pullback、pullback breakout、逆色 K 收盘、极值外订单等多种同向入场理由。
+
+[分析推断] Always-In 在这里首先是方向过滤器，不是一份完整交易规格。它本身不能确认 setup quality、trigger、entry price、protective stop、position size 或可接受的账户风险；这些字段仍须逐项评估。因此 `buy/sell for any reason` 不能被解释为脱离价格、规模和风险任意执行。
 
 [画面事实] Slide 13 用绿色方框和箭头标出牛趋势中的 buy signal bars 及其高点上方触发；Slide 14 镜像标出熊趋势中的 sell signal bars 及低点下方触发。两张图显示的是候选触发位置，不是每一标记都保证成交或盈利。趋势中的逆色收盘和回调可以买/卖，是在押注较小反转失败；强反向 breakout 与 follow-through 出现后，这个前提会失效。
 
@@ -98,10 +100,10 @@
 
 | 背景/市场状态 | 观察证据 | 候选行动 | 确认条件 | 失效条件 | 风险含义 | 来源层 |
 |---|---|---|---|---|---|---|
-| 清楚 Trend / Tight Channel | 连续同向 K、极值附近收盘、少重叠；逆势尝试弱 | 只保留 AIL 买或 AIS 卖方向的 setup；可等 pullback、signal close 或 breakout | 原方向继续离区并有 follow-through | 强反向 breakout 越过主要结构并持续接受 | 高方向概率可同时伴随远 stop；方向不等于任意价入场 | [Brooks/课件] |
+| 清楚 Trend / Tight Channel | 连续同向 K、极值附近收盘、少重叠；逆势尝试弱 | 只保留 AIL 买或 AIS 卖方向的 setup；可等 pullback、signal close 或 breakout | 原方向继续离区并有 follow-through | 强反向 breakout 越过主要结构并持续接受 | 高方向概率可同时伴随远 stop；方向不等于任意价入场 | [分析推断] |
 | 图表令人困惑、双向反复 | 上下腿重叠，双方反转都有机会 | 先按早期 TR；若被迫持续在场，保留最近清楚方向的轻微倾斜 | 新一侧真正 breakout 并得到 follow-through | 旧方向恢复强推进，或新突破快速失败回区 | TR 中 chase 容易遇到失败突破；课程未给固定 fade 风险参数 | [Brooks/课件] |
 | 原趋势中出现漂亮反转K或强反弹 | 只越过 minor high/low，仍未越过 major structure；缺一根确认 K | 可先退出旧仓并等待；不要把退出旧方向写成新方向已确认 | 反向再有强 K、主要结构突破与 follow-through | 反向突破失望、回到旧方向，原趋势恢复 | 等确认牺牲价格，但降低把 minor reversal 当 MTR 的风险 | [Brooks/课件] |
-| AIL/AIS 已建立 | 一根巨大同向 K、两根较强同向 K，或若干较小同向 K；Context 良好 | 寻找同向 setup，或等待首个可管理的 pullback | 离区保持、收盘质量和后续同向接受持续 | 回到旧区、坏跟进、相反方向建立更强证据簇 | 固定 1/2/3–5 根不是翻转公式；需要结构 stop 与适配 size | [Brooks/课件] |
+| AIL/AIS 已建立 | 一根巨大同向 K、两根较强同向 K，或若干较小同向 K；Context 良好 | 寻找同向 setup，或等待首个可管理的 pullback | 离区保持、收盘质量和后续同向接受持续 | 回到旧区、坏跟进、相反方向建立更强证据簇 | 固定 1/2/3–5 根不是翻转公式；结构 stop 与适配 size 仍需单独设计 | [分析推断] |
 | 已有候选 entry | 先能标出结构失效位，再比较等距上/下概率和可得 reward | 目标至少覆盖 risk；swing 候选优先看 2R，或在高概率前提下评估 1R | 目标、止损和概率绑定同一入场与同一事件 | 可得空间不足、方向概率变化或结构 stop 不可承受 | Probability、Risk、Reward 缺一不可；1R/2R 不是跨 setup 固定值 | [Brooks/课件] |
 | 课程概率与账户执行之间 | 80%/60% 是无样本课程先验，未含个人成本与误差 | 只作为假设排序；用自己的定义、样本、成本和滑点做验证 | 净期望与尾部风险在独立样本中可接受 | 概率校准失败、成本吞噬优势或回撤超预算 | 不因课程数字直接生成 size；本课未给仓位公式 | [分析推断] |
 

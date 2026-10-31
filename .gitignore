@@ -11,6 +11,12 @@
 # Local agent and workflow instructions
 /AGENTS.md
 /WORKFLOW.md
+/scripts/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
 
 # Media and subtitle files should never be committed
 *.mp4

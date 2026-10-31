@@ -14,7 +14,7 @@
 | 学习目标 | 把 Trend/TR 二分、Pullback/TR 的跨周期关系、80% 惯性、Major/Minor Higher Low/Lower High 与 trend/swing/leg/pullback 的尺度命名连接成可执行的状态判断 |
 | 前置课程 | BTC PAF 12A Market Cycle；BTC PAF 02D Chart Basics and Price Action；BTC PAF 09A/09C Pullbacks and Bar Counting；BTC PAF 08D Candles Setups and Signal Bars |
 
-本课承接 12A 的四阶段 Market Cycle，但把重点从“状态如何循环”推进到“如何判定当前结构仍属趋势、已降级为震荡区间，还是已经足以确认相反趋势”。Brooks 先把任意图表、图表片段乃至单根 K 线压缩为 Trend 或 Trading Range 两类，再解释短小 TR 在趋势背景中为何称为 Pullback、同一段价格在不同周期为何可同时是回调与区间。课程后半用 Major/Minor Higher Low 与 Lower High 建立趋势控制点：次要摆动点被越过多半只会把趋势降级为 TR；重要摆动点被有效越过后，旧趋势才更可能结束，而相反趋势仍需强 breakout 与 follow-through。
+本课承接 12A 的四阶段 Market Cycle，但把重点从“状态如何循环”推进到“如何判定当前结构仍属趋势、已进入震荡区间，还是已经足以确认相反趋势”。Brooks 先把任意图表、图表片段乃至单根 K 线压缩为 Trend 或 Trading Range 两类，再解释短小 TR 在趋势背景中为何称为 Pullback、同一段价格在不同周期为何可同时是回调与区间。课程后半用 Major/Minor Higher Low 与 Lower High 建立趋势控制点：次要摆动点被越过只触发状态重评，旧趋势既可能仍完整，也可能演化为 TR；重要摆动点被有效越过后，旧趋势才更可能结束，而相反趋势仍需强 breakout 与 follow-through。
 
 ### 全片时间线
 
@@ -24,7 +24,7 @@
 | 00:02:19–00:06:44 | 小 TR、Pullback、跨周期展开、20+ bars、Breakout Mode 与 Measured Move | 解释命名随周期和背景变化 |
 | 00:06:44–00:08:53 | Market Inertia 与两类 80% Rule | 隔离趋势反转失败率和区间突破失败率 |
 | 00:08:53–00:11:42 | Trend、Swing、Leg、Pullback 的第一轮定义 | 以屏幕尺度和可获利幅度理解术语重叠 |
-| 00:11:42–00:16:51 | Major/Minor Higher Low；止损锚；跌破 minor 后的 TR 与轻微多头偏置 | 建立牛趋势控制点 |
+| 00:11:42–00:16:51 | Major/Minor Higher Low；止损锚；跌破 minor 后的状态重评与本例 TR | 建立牛趋势控制点 |
 | 00:16:51–00:22:32 | Major/Minor Lower High；无需立即创新低的 major 变体；反向趋势确认 | 镜像建立熊趋势控制点 |
 | 00:22:32–00:26:31 | Minor Trend、Swing、Leg、Pullback 的尺度化案例 | 收束术语层级，防止为名称争论 |
 | 00:26:31–00:27:50 | 全课复盘与片尾 | 回收 Trend/TR、80% 与定义框架 |
@@ -36,7 +36,7 @@
 3. [Brooks/课件] 约 20+ bars 后，先前趋势影响通常下降，市场接近 Breakout Mode；但“接近 50/50”不必精确相等。若区间仍守住最近 Major Higher Low/Lower High，旧趋势可保留轻微优势。
 4. [Brooks/课件] Al Brooks 80% Rule 必须拆成不同事件：Trend 中约 80% reversal attempts fail；TR 中约 80% breakout attempts fail。共同上位解释是 inertia，但两者不能互换分母。
 5. [Brooks/课件] Major Higher Low/Lower High 由后续强顺势突破确认，通常通向新极值，并成为趋势方移动保护止损的重要锚；Minor 摆动点后续突破弱，更多属于 Pullback/TR 内部腿，被越过不自动终结原趋势。
-6. [分析推断] 状态切换应采用“两级门”：越过 minor pivot 先从 Trend 降级为 TR；越过 major pivot 说明旧趋势更可能结束；只有相反方向出现强 breakout、结构越界和 follow-through，才升级为相反 Trend。该门不提供仓位、成本或固定止损公式。
+6. [分析推断] 状态切换应采用“两级证据门”：越过 minor pivot 只触发重评，旧 Trend 可能仍完整，也可能进入 TR；越过 major pivot 才说明旧趋势更可能结束；只有相反方向出现强 breakout、结构越界和 follow-through，才升级为相反 Trend。该门不提供仓位、成本或固定止损公式。
 
 ## 知识讲解
 
@@ -92,9 +92,9 @@
 
 [画面事实] EURUSD 五分钟图上，课件标出连续 strong bear breakouts、major LH 水平线以及 L1/L2/L3 的回调结构。某个 Lower High 后虽没有立即新低，但出现三根收在低位的熊 K，其中两根较大；Brooks 认为这足以让空头收紧止损，因此把它视为 major LH。另一处 Double Top 后有较强下破和新低，空头同样不愿价格再回到该 Double Top 上方。Major 的本质是突破强度和参与者风险锚，不是必须满足“立即新低”的单一形式。
 
-[Brooks/课件] Minor Lower High 后通常只有较弱 bear leg 或 TR price action。价格反弹越过 minor LH，不足以确认 Bull Trend；课程图例虽越过两个 minor LH，但牛突破只有一根，follow-through 很差，且未越过 major LH。因此更可能是 TR 中的 bull leg，或 Bear Trend 中的 rally。
+[Brooks/课件] Minor Lower High 后通常只有较弱 bear leg 或 TR price action。20:20–20:33 的英文旁白进一步明确：熊趋势出现很多根 K 的长回调时，经常会越过 minor LH，但趋势仍可能完整，交易者仍预期再创新低。因此，价格越过 minor LH 只触发重评，不自动生成 TR，更不足以确认 Bull Trend。课程图例虽越过两个 minor LH，但牛突破只有一根、follow-through 很差，且未越过 major LH；它既可能是 TR 中的 bull leg，也可能仍只是 Bear Trend 中的 rally。
 
-若价格越过 major LH，大多数交易者会把旧 Bear Trend 视为结束；通常先转 TR，有时才立即转成相反趋势。要确认 Bull Trend，Brooks 要求 strong bull breakout 以及越过 major Lower High 后的 follow-through。[分析推断] 这形成对称状态门：minor 被越过＝旧趋势降级；major 被越过＝旧趋势结束概率显著上升；强反向突破与跟进＝新趋势确认。任一阶段若原方向重新强突破并持续跟进，都应撤销过早的反向升级。
+若价格越过 major LH，大多数交易者会把旧 Bear Trend 视为结束；通常先转 TR，有时才立即转成相反趋势。要确认 Bull Trend，Brooks 要求 strong bull breakout 以及越过 major Lower High 后的 follow-through。[分析推断] 这形成非对称证据门：minor 被越过＝重评旧趋势，但旧趋势可保持完整或进入 TR；major 被越过＝旧趋势结束概率显著上升，通常先按 TR；强反向突破与跟进＝新趋势确认。任一阶段若原方向重新强突破并持续跟进，都应撤销过早的反向升级。
 
 ## 决策模型
 
@@ -103,8 +103,8 @@
 | 未确定是 Trend 还是 TR | 同一区段是否同时存在合理 buy setup 与 sell setup；是否持续 HH/HL 或 LL/LH；双向重叠是否占主导 | 双向 setup 都合理时先按 TR；只在单向结构与跟进持续时按 Trend | TR：上下测试反复回区；Trend：同向突破与回调结构延续 | 强离区并持续接受会否决旧 TR；major structure 被破坏会否决旧 Trend | 先验依状态而变；形态名不能替代状态、entry 与 stop | [Brooks/课件] 00:00:12–02:19 |
 | 高周期趋势中的小区间 | 高周期仍有 major structure；当前周期区间短；低周期展开成多根 TR | [分析推断] 固定决策周期：高周期给方向/结构锚，执行周期给 trigger/management；不因低周期中性自动反转高周期 | 高周期原趋势恢复并有跟进；或低周期真实离区与高周期方向一致 | 强反向突破破坏高周期 major pivot，并有 follow-through | 跨周期标签可同时正确，但概率、stop、成本与 size 不可直接复制 | [分析推断] 02:22–06:44 |
 | Pullback/TR 已约 20+ bars | 旧趋势离得更远、双向腿增加、Breakout Mode；仍检查是否守住最近 major HL/LH | 等实际 breakout 与 follow-through；可把区间高度作为 MM 候选而非保证 | 一侧强离区、回测守住、持续跟进 | 突破快速失败回区；旧 major pivot 使方向仍有轻微偏置 | “接近 50/50”不等于精确相等；53/47 仅为示意且未统计 | [Brooks/课件] 04:48–06:44；15:03–15:46 |
-| Bull Trend 内回调 | Major HL 后有强 bull BO，通常创新高；minor HL 后续弱 | 趋势多头把最近 major HL 作为核心结构参考；minor 被破先降级为 TR，不自动做空 | 守住 major HL、无强 bear reversal、牛方重新 breakout+follow-through | 有效跌破 major HL；空头强突破并被接受 | 过紧地把 stop 抬到 minor HL 容易被正常 TR/PB 扫出；课程未给仓位公式 | [Brooks/课件] 11:42–16:50 |
-| Bear Trend 内反弹 | Major LH 后有强 bear BO；minor LH 后续弱；major 可在未立即新低时由强突破确认 | 空头以最近 major LH 为核心结构参考；minor 被越过先降级为 TR，不自动做多 | 守住 major LH、原方向再创新低或强跟进 | 有效越过 major LH；多头强突破并有 follow-through | Pullback 可越过多个 minor LH；把每个 minor 当止损锚会过早退出 | [Brooks/课件] 16:51–22:27 |
+| Bull Trend 内回调 | Major HL 后有强 bull BO，通常创新高；minor HL 后续弱 | 趋势多头把最近 major HL 作为核心结构参考；minor 被破只重评状态，不自动降级 TR 或做空 | 守住 major HL、无强 bear reversal、牛方重新 breakout+follow-through | 有效跌破 major HL；空头强突破并被接受 | 过紧地把 stop 抬到 minor HL 容易被正常 TR/PB 扫出；课程未给仓位公式 | [Brooks/课件] 11:42–16:50 |
+| Bear Trend 内反弹 | Major LH 后有强 bear BO；minor LH 后续弱；major 可在未立即新低时由强突破确认 | 空头以最近 major LH 作为核心结构参考；minor 被越过只重评状态，不自动降级 TR 或做多 | 守住 major LH、原方向再创新低或强跟进 | 有效越过 major LH；多头强突破并有 follow-through | Pullback 可越过多个 minor LH 且熊趋势仍完整；把每个 minor 当止损锚会过早退出 | [Brooks/课件] 16:51–22:27 |
 | 旧趋势疑似反转 | 价格已越过 major pivot，但尚未确认相反趋势 | [分析推断] 先标 TR/旧趋势结束候选；等待相反方向 strong breakout、结构越界和 follow-through | 新方向连续趋势 K、越过 major pivot 后保持、回测不回旧结构 | 只有单根弱突破、坏跟进，或原趋势重新强突破 | 越过 major 不是无条件反手；新趋势仍需独立 entry、stop 与风险预算 | [分析推断] 20:36–22:27 |
 
 ## 关键概念
@@ -132,12 +132,12 @@
 | PAF12B-V07 / 00:11:42–00:14:36 | 绿色强牛突破对应 major HL；橙色 minor HL 后只有弱 rally/无强新高 | Major/Minor 由后续突破强度与结构结果区分 | Core stop/reference 更接近 major，而非每个内部 HL | 不是每个 Higher Low 被破都等于牛趋势结束 |
 | PAF12B-V08 / 00:14:43–00:16:50 | Lower Low 跌破 minor HL，却仍高于 major HL；画面把中段标为 TR | 牛趋势先降级为 TR，仍可略偏向恢复；53/47 只是 Maybe 示例 | 把 minor breach 视作重评门，等待 major/强反向证据 | 不能把 lower low 机械称 Bear Trend 或把 53/47 当统计阈值 |
 | PAF12B-V09 / 00:17:11–00:19:19 | 某 Lower High 后三根强熊 K 但未立即新低；Brooks 仍把它作为 major LH，并据此收紧 stop | Strong breakout 可比“是否马上新低”更重要 | 用突破强度与交易者风险锚判断 major | 不是必须立即创新低才算 major |
-| PAF12B-V10 / 00:20:36–00:22:27 | 价格越过 minor LH，但牛突破单根、跟进差、未越过 major LH | 旧熊趋势可先转 TR；Bull Trend 需 strong bull BO + follow-through above major LH | 相反趋势采用独立确认门 | 单根越过次要高点不等于 Bull Trend |
+| PAF12B-V10 / 00:20:20–00:22:27 | 长回调越过 minor LH 时旧熊趋势仍可能完整；本图牛突破单根、跟进差且未越过 major LH | minor breach 只触发重评；越过 major LH 才结束旧熊趋势，通常先转 TR；Bull Trend 仍需 strong bull BO + follow-through above major LH | 把“旧趋势结束”和“新趋势确认”设为两个独立判断 | 越过 minor 不会自动或通常降级 TR，单根弱突破也不等于 Bull Trend |
 | PAF12B-V06 / 00:22:32–00:26:28 | 同一类移动按屏幕占比、主要移动数量和可获利幅度分别标 trend/swing/leg/pullback | 名称服务于尺度和管理，允许重叠 | 先写父结构、方向、目标类型与失效，再选名称 | 不能用 1/3、10–20 bars 或 3–5 倍机械生成交易 |
 
 ## 知识连接
 
-1. 与 BTC PAF 12A Market Cycle 的连接：12A 建立 Breakout→Channel→TR 的循环，以及 first pullback、Momentum/Value 和逆势盈利诊断。本课把状态边界进一步落到 major/minor pivot：minor 被破多半只降级到 TR，major 被破才使旧趋势更可能结束，反向趋势仍需强突破与跟进。
+1. 与 BTC PAF 12A Market Cycle 的连接：12A 建立 Breakout→Channel→TR 的循环，以及 first pullback、Momentum/Value 和逆势盈利诊断。本课把状态边界进一步落到 major/minor pivot：minor 被破只触发重评，旧趋势可能仍完整或进入 TR；major 被破才使旧趋势更可能结束，反向趋势仍需强突破与跟进。
 2. 与 BTC PAF 02D Chart Basics and Price Action 的连接：02D 已把 Market Inertia 拆成 Trend reversal attempts 与 TR breakout attempts 两类 80%。本课用完整图例再次验证，并加入“双向合理 setup＝TR”与 major pivot 的状态控制，避免把惯性写成无背景胜率。
 3. 与 BTC PAF 09A/09C Pullbacks and Bar Counting 的连接：09A/09C 说明 Pullback 会随 bars/legs 增长进入 Endless Pullback 和 Breakout Mode。本课补充跨周期等价，以及 20+ bars 后仍守住 major HL/LH 时可保留轻微旧趋势偏置；“接近 50/50”并非精确相等。
 4. 与 BTC PAF 08D Candles Setups and Signal Bars 的连接：08D 强调 breakout 还要 follow-through。本课把这条验证原则放到趋势反转门：越过 minor pivot 不够；越过 major pivot 后若只有单根、坏跟进，仍更像 TR 中的一腿。
@@ -151,7 +151,7 @@
 - 小 TR 在趋势中可称 Pullback；高周期 PB 在低周期可展开为 TR。
 - 80% 必须写事件：Trend reversal attempts fail；TR breakout attempts fail。
 - Major HL/LH 后有强顺势 breakout，通常创新极值；Minor 后续弱。
-- 越过 minor 多半是 Trend→TR；越过 major 是旧趋势结束候选；相反 Trend 仍需强 breakout + follow-through。
+- 越过 minor 只触发重评，旧 Trend 可仍完整或进入 TR；越过 major 才是旧趋势结束候选；相反 Trend 仍需强 breakout + follow-through。
 - Leg、Swing、Trend 是相对尺度；名称不替代 Context、entry、stop 和 invalidation。
 
 ### 主动回忆问题
